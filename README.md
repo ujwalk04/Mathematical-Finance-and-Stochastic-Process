@@ -3,7 +3,7 @@ Stamatics 2021
 
 ## Objectives 
 
-The goal of this project is to introduce the students with basics of finance and teach them elementary topics in the two major sub-fields of mathematical finance - portfolio theory & derivatives pricing theory.
+The goal of this project is to introduce the students with basics of finance and teach them elementary topics sub-fields of mathematical finance - Portfolio theory
 
 ## Assignments
 
